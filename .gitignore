@@ -16,4 +16,4 @@ buildNumber.properties
 ### IDEs
 .classpath
 .project
-.settings
+.settings/
