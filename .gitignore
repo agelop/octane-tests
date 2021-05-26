@@ -12,3 +12,8 @@ buildNumber.properties
 
 ### VScode
 .VScode
+
+### IDEs
+.classpath
+.project
+.settings
