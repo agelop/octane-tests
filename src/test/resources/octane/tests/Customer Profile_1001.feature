@@ -16,7 +16,7 @@ Feature: Customer Profile
 @TSCID2008
 	Scenario Outline: Update profile options
     	Given Navigate to portal
-		When select option <param1> 
+		When select option "<param1>" 
 		When click <param2>  
 		Then option updated
 
