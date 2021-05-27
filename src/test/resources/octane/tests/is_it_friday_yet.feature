@@ -8,7 +8,7 @@ Feature: Is it Friday yet?
 
     Examples:
       | day            | answer |
-      | Friday         | TGIF   |
+      | Friday         | Nope   |
       | Sunday         | Nope   |
       | anything else! | Nope   |
       | Friday         | Nope   |
