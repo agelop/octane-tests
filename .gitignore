@@ -10,10 +10,10 @@ buildNumber.properties
 .mvn/timing.properties
 .mvn/wrapper/maven-wrapper.jar
 
-### VScode
+### VScode ###
 .VScode
 
-### IDEs
-.classpath
-.project
+### IDEs ###
+.classpath/
+.project/
 .settings/
