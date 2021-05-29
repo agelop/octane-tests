@@ -11,4 +11,4 @@ Feature: Is it Friday yet?
       | Friday         | Nope   |
       | Sunday         | Nope   |
       | anything else! | Nope   |
-      | Friday         | Nope   |
+      | Friday         | TGIF   |
